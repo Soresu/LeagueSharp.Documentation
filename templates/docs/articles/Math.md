@@ -32,7 +32,7 @@ float result3 = (float) a / b;  // result3 = 3.5 because you divide a float with
 ### Increment and Decrement Operators
 You can increase or decrease the variable's number by one with ++ or --
 
-All of these command do the same thing:
+All of these command increment the value by one:
 ```
 a = a + 1;
 a++;
